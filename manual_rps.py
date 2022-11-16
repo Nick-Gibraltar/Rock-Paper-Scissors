@@ -14,6 +14,7 @@ screen = pygame.display.set_mode(size)
 pygame.init()
 
 def get_computer_choice():
+    
     return random.choice(["R", "P", "S"])
 
 def get_user_choice():
