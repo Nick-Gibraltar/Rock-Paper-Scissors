@@ -8,7 +8,7 @@ import pygame
 
 pygame.init()
 
-X_MAX = 2000
+X_MAX = 1800
 Y_MAX = 800
 RED = (255,0,0)
 BLACK = (0,0,0)
