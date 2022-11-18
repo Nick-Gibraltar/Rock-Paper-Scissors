@@ -61,3 +61,7 @@ The primary improvement would be to re-train the initial neural network. Whilst 
 it often misinterprets no gesture as being a valid gesture. Training the network with a blank background would
 most likely solve this.
 
+![Screenshot from 2022-11-18 11-54-41](https://user-images.githubusercontent.com/63295424/202713218-41bfe91d-48d4-4216-9d64-ae00d0f856e2.png)
+
+
+![Screenshot from 2022-11-18 11-57-42](https://user-images.githubusercontent.com/63295424/202713260-c50c1d6d-ce6f-40bb-b5aa-37cab282b786.png)
