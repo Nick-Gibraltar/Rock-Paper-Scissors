@@ -102,5 +102,4 @@ def play_game():
     pf.pygame_display_text("And the winner is..."+("YOU!" if user_score==3 else "COMPUTER :-)"), 64, (100,100), True)
     pf.pygame_display_text("Press SPACEBAR to end", 64, (100,300), False)
     pf.pygame_wait_for_spacebar()
-
 play_game()
